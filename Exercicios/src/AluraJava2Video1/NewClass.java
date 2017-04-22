@@ -3,18 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package grafica;
+package AluraJava2Video1;
 
 /**
  *
  * @author ALPC
  */
-public class Livro {
-
-    String nome, editora, rua, cidade;
-    int pagina, anoPublicacao;
-    int cep, numero;
-    private void ola() {
-        System.out.println("Teste");
-    }
+public class NewClass {
+    
 }
